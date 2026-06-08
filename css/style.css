@@ -6857,6 +6857,7 @@ article.comment p:last-child,article.comment ul:last-child,article.comment ol:la
 
 .widget_nav_menu .current-menu-item>a {
   position:relative;
+  outline-offset: 2px;
 }
 
 .widget_nav_menu .current-menu-item>a:after {
