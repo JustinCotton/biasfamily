@@ -197,7 +197,11 @@ body {
 }
 
 .sizzle {
-  border-radius: 15px;
+  border-radius: 25px;
+  overflow: hidden; /* Hides the sharp video corners */
+  width: 100%;
+  height: auto;
+  -webkit-transform: translateZ(0);
 }
 
 @media (max-width: 700px) {
