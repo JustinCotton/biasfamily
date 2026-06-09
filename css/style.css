@@ -188,6 +188,21 @@ body {
   line-height:1.7;
 }
 
+.peach {
+  background-color: #ff7f00;
+}
+
+.tree {
+  background-color: #0a790a;
+}
+
+@media (max-width: 700px) {
+  [class*="sizzle"] {
+    width: 90%;
+    height: 90%;
+  }
+}
+
 .x-container.offset-top {
   margin-top:50px;
 }
@@ -9458,7 +9473,7 @@ body.x-navbar-fixed-top-active .x-navbar-wrap {
 }
 
 #section-2 p, #section-4 p {
-  color: rgb(5, 119, 15);
+  color: white;
 }
 
 .artDeco {
