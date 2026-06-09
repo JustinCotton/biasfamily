@@ -1194,7 +1194,7 @@ table tbody+tbody {
 }
 
 @media (max-width: 767px) {
-  .x-logobar a img {
+  .x-logobar img {
     width:30%;
   }
 }
