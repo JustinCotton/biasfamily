@@ -1193,6 +1193,12 @@ table tbody+tbody {
   z-index:1030;
 }
 
+@media (max-width: 767px) {
+  .x-logobar {
+    width:30%;
+  }
+}
+
 .x-navbar {
   position:relative;
   overflow:visible;
