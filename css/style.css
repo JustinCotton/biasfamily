@@ -35,7 +35,7 @@ a.x-img-thumbnail:hover,textarea:focus,input[type="text"]:focus,input[type="pass
 }
 
 .x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a {
-  color:rgb(255,102,0);
+  color: rgb(242, 169, 0);
 }
 
 .x-navbar .desktop .x-nav > li > a {
@@ -234,7 +234,7 @@ a {
 }
 
 p {
-  margin:0 0 1.313em;
+  margin:0 0 1.3130em;
 }
 
 small {
@@ -9488,7 +9488,7 @@ body.x-navbar-fixed-top-active .x-navbar-wrap {
 }
 
 #section-1 p, #section-2 p, #section-3 p, #section-4 p, .x-colophon p {
-  color: #0a790e;
+  color: rgb(0,171,132);
 }
 
 .artDeco {
@@ -9528,7 +9528,7 @@ body.x-navbar-fixed-top-active .x-navbar-wrap {
 }
 
 footer a:hover {
-	color: #e65c00;
+	color: rgb(242, 169, 0);
 }
 
 footer nav+p {
@@ -9536,7 +9536,7 @@ footer nav+p {
 }
 
 .iconHeading {
-  color:#e65c00;
+  color:rgb(242, 169, 0);
 }
 
 .foundry {
