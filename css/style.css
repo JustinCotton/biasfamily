@@ -9487,8 +9487,10 @@ body.x-navbar-fixed-top-active .x-navbar-wrap {
   border-radius: 10px;
 }
 
-#section-1 p, #section-2 p, #section-3 p, #section-4 p, .x-colophon p {
-  color: rgb(0,171,132);
+#section-1 p, #section-2 p, #section-3 p, #section-4 p, #section-5 p, .x-colophon p {
+  /*color: rgba(2, 159, 122);*/
+  color:rgb(3, 121, 9);
+  font-weight: bold;
 }
 
 .artDeco {

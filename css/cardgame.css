@@ -23,14 +23,14 @@
   float: left;
   /*width: 180px;
   height: 217px;*/
-	width: 60px;
-  height: 72px;
+	width: 75px;
+  height: 75px;
   position: relative;
-  border-radius: 10px;
+  border-radius: 100px;
 	border: 2px solid white;
 	margin: 12px;
 	/*background: url(../images/FoundryCard.jpg);*/
-	background: url(../images/FoundryCard2.jpg);
+	background: url(../images/GeorgiaAquarium.png);
 }
 
 #cardTable .card div {
@@ -42,7 +42,7 @@
   top: 0;
   left: 0;
   position: absolute;
-  border-radius: 10px;
+  border-radius: 100px;
 	/*border: 2px solid white;*/
 }
 
@@ -73,7 +73,7 @@
 }
 #cardTable .card.down .front {
   /*background: url(../images/FoundryCard.jpg);*/
-	background: url(../images/FoundryCard2.jpg);
+	background: url(../images/GeorgiaAquarium.png);
   z-index: 1;
 }
 
