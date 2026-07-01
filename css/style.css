@@ -9537,9 +9537,15 @@ body.x-navbar-fixed-top-active .x-navbar-wrap {
   font-size: 20px;
 }
 
-.oldTime {
+.treeCity {
   font-family: "Berkshire Swash", sans-serif;
   font-size: 25px;
+}
+
+.treeCity2 {
+  font-family: "Berkshire Swash", sans-serif;
+  font-size: 20px;
+  text-decoration: underline ;
 }
 
 #map {
